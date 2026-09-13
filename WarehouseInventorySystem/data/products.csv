@@ -1,0 +1,11 @@
+id,name,category,quantity,minStock,price,supplier
+P001,Wireless Mouse,Electronics,35,10,799.00,TechSource
+P002,Mechanical Keyboard,Electronics,18,20,2499.00,KeyWorks
+P003,USB-C Cable,Accessories,60,15,399.00,CableHub
+P004,Laptop Stand,Accessories,9,10,1299.00,OfficeGear
+P005,Web Camera,Electronics,14,10,1899.00,VisionTech
+P006,Headphones,Audio,22,15,1599.00,SoundPoint
+P007,Bluetooth Speaker,Audio,7,10,2199.00,SoundPoint
+P008,Power Bank,Electronics,28,15,1499.00,VoltMart
+P009,HDMI Cable,Accessories,45,20,499.00,CableHub
+P010,External SSD,Storage,12,15,5499.00,DataStore

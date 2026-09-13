@@ -1,0 +1,12 @@
+from,to,capacity
+Warehouse,HubNorth,60
+Warehouse,HubSouth,50
+HubNorth,StoreA,25
+HubNorth,StoreB,20
+HubNorth,StoreC,15
+HubSouth,StoreB,10
+HubSouth,StoreC,20
+HubSouth,StoreD,30
+StoreA,StoreD,20
+StoreB,StoreD,15
+StoreC,StoreD,25
